@@ -1,3 +1,6 @@
+Решаемая задача - распознавание опухолей в головном мозге (binary classification)
+
+
 Model from https://www.kaggle.com/code/tusharcode/brain-tumor-pytorch-model-cnn-and-autoencoders/notebook
 
 # How to run
