@@ -1,5 +1,7 @@
 # Brain Tumor Detection CNN
 
+Выявление новообразований в мозге (binary object detection)
+
 Ссылка на модель на kaggle: https://www.kaggle.com/code/mohamedbelkhira/brain-tumor-detection-cnn/notebook
 
 Ссылка на использующийся датасет Brain MRI Images for Brain Tumor Detection: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
